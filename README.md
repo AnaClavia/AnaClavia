@@ -5,7 +5,8 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Sobre mim:
 
 <div>
-  <img src="https://user-images.githubusercontent.com/98791758/180111498-ca45d5c1-a0f8-4aa6-82e6-1699cec1dc67.png"></img>
+  <img src="https://user-images.githubusercontent.com/98791758/180111698-2e2741eb-2950-46d9-adf6-1778721381d1.png
+"></img>
 
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0">Formação em pedagogia e Desenvolvedora fullstack.</link>
    <p> 
