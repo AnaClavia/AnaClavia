@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Edu+QLD+Beginner&size=50&duration=6000&color=F76E8E&background=FF863F00&lines=Heyyy!+Eu+sou+Ana+Clavia+%3A);Bem-vindo+ao+meu+perfil!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Edu+QLD+Beginner&size=50&duration=6000&color=F76E8E&background=FF863F00&height=90&lines=Heyyy!+Eu+sou+Ana+Clavia+%3A);Bem-vindo+ao+meu+perfil!" alt="Title"></img>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
