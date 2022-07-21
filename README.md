@@ -1,13 +1,22 @@
+<div align="center">
+  <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+QLD+Beginner&size=50&duration=6000&color=F76E8E&background=FF863F00&lines=Heyyy!+Eu+sou+Ana+Clavia+%3A);Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)" alt="Title"></img>
+</div>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-Formação em pedagogia e Desenvolvedora fullstack.
-Hobbies: Gosto de ler sobre os mais diversos assuntos, desenhar, ficar com meus gatos e fazer lettering.
-Experiências profissionais: 
+<div>
+  <p> 
+    Formação em pedagogia e Desenvolvedora fullstack.
+  </p> 
+  <p>
+      Experiências profissionais: 
 •	Professora em educação infantil e Ensino Fundamental.
 •	Atuei em voluntariados na Agência Adventista de Desenvolvimento e Recursos Assistenciais (ADRA) em parceria com a Agência da ONU para Refugiados (ACNUR).
 •	Pesquisadora no campo da educação tecnológica.
-O que estudo atualmente: inglês, Javascript e Python.
+  </p>
+  <p>
+    O que estudo atualmente: Neuropsicopedagogia, Javascript e Python.
+  </p>
 
 <div align="center d-fluid">
   <a href="https://github.com/AnaClavia">
