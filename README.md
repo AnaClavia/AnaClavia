@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/98791758/180111698-2e2741eb-2950-46d9-adf6-1778721381d1.png
 "></img>
 
- <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0"></link>
+ <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
    <p> 
     Formação em pedagogia e Desenvolvedora fullstack.
   </p> 
