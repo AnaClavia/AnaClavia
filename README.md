@@ -1,5 +1,13 @@
 Hey! 👋
-## Meu nome é Ana Clavia, 25 anos, estudante!
+## Me chamo Ana Clavia, 25 anos, estudante!
+
+Formação em pedagogia e Desenvolvedora fullstack.
+Hobbies: Gosto de ler sobre os mais diversos assuntos, desenhar, ficar com meus gatos e fazer lettering.
+Experiências profissionais: 
+•	Professora em educação infantil e Ensino Fundamental.
+•	Atuei em voluntariados na Agência Adventista de Desenvolvimento e Recursos Assistenciais (ADRA) em parceria com a Agência da ONU para Refugiados (ACNUR).
+•	Pesquisadora no campo da educação tecnológica.
+O que estudo atualmente: inglês, Javascript e Python.
 
 <div align="center d-fluid">
   <a href="https://github.com/AnaClavia">
