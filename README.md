@@ -15,7 +15,7 @@
 •	Pesquisadora no campo da educação tecnológica.
   </p>
   <p>
-    O que estudo atualmente: Neuropsicopedagogia, Javascript e Python.
+    O que estudo atualmente: Neuropsicopedagogia, Javascript.
   </p>
 
 <div align="center d-fluid">
