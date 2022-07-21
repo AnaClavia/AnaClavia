@@ -5,27 +5,23 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Sobre mim:
 
 <div>
-  <img src="https://user-images.githubusercontent.com/98791758/180111698-2e2741eb-2950-46d9-adf6-1778721381d1.png
-"></img>
-
- <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
    <p> 
-    Formação em pedagogia e Desenvolvedora fullstack.
+   ✔ Formação em pedagogia e Desenvolvedora fullstack.
   </p> 
   <p> 
-    Hobbies: Doramas, séries, viajar e conhecer novos lugares.
+   ✔ Hobbies: Doramas, séries, viajar e conhecer novos lugares.
   </p> 
   <p>
-      Experiências profissionais: <br>
+   ✔ Experiências profissionais: <br>
 •	Professora em educação infantil e Ensino Fundamental.<br>
 •	Atuei em voluntariados na Agência Adventista de Desenvolvimento e Recursos Assistenciais (ADRA) em parceria com a Agência da ONU para Refugiados (ACNUR).<br>
 •	Pesquisadora no campo da educação tecnológica.
   </p>
   <p> 
-    Linguagem de Programação favorita - JAVASCRIPT
+   ✔ Linguagem de Programação favorita - JAVASCRIPT
   </p> 
   <p>
-    O que estudo atualmente: Neuropsicopedagogia, HTML, CSS, Javascript.
+   ✔ O que estudo atualmente: Neuropsicopedagogia, HTML, CSS, Javascript.
   </p>
 </div>
 
