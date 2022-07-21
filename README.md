@@ -5,6 +5,9 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Sobre mim:
 
 <div>
+  <span class="material-symbols-outlined">
+done_all
+</span>
    <p> 
     Formação em pedagogia e Desenvolvedora fullstack.
   </p> 
