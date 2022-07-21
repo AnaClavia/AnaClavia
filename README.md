@@ -5,8 +5,11 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Sobre mim:
 
 <div>
-  <p> 
+   <p> 
     Formação em pedagogia e Desenvolvedora fullstack.
+  </p> 
+  <p> 
+    Hobbies: Doramas, séries, viajar e conhecer novos lugares.
   </p> 
   <p>
       Experiências profissionais: <br>
@@ -14,9 +17,13 @@
 •	Atuei em voluntariados na Agência Adventista de Desenvolvimento e Recursos Assistenciais (ADRA) em parceria com a Agência da ONU para Refugiados (ACNUR).<br>
 •	Pesquisadora no campo da educação tecnológica.
   </p>
+  <p> 
+    Linguagem de Programação favorita - JAVASCRIPT
+  </p> 
   <p>
-    O que estudo atualmente: Neuropsicopedagogia, Javascript.
+    O que estudo atualmente: Neuropsicopedagogia, HTML, CSS, Javascript.
   </p>
+</div>
 
 <div align="center d-fluid">
   <a href="https://github.com/AnaClavia">
